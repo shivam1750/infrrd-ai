@@ -1,1 +1,1 @@
-# infrrd-ai
+# Infrrd-ai
