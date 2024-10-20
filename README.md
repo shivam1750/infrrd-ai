@@ -2,7 +2,7 @@
 
 ### To clone repository in local directory  
 ```bash
-git clone 
+git clone https://github.com/shivam1750/infrrd-ai.git
 ```
 
 ### 1. Prerequisites
