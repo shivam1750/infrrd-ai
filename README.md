@@ -1,5 +1,10 @@
 # Infrrd-ai : -> Tesla stock analysis
 
+### To clone repository in local directory  
+```bash
+git clone 
+```
+
 ### 1. Prerequisites
 
 ```bash
